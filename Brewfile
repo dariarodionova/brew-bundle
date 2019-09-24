@@ -16,4 +16,6 @@ cask "slack"
 #cask "spotify"
 cask "visual-studio"
 cask "serverless"
-
+cask "postman"
+cask "microsoft-office"
+cask "unrar"
